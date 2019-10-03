@@ -1,0 +1,89 @@
+body{
+    background-color:rgb(233, 236, 236);
+}
+.card-body{
+    background-color:silver;
+    text-align: center;
+}
+
+.banner {
+    text-align: center;
+}
+
+.card {
+    margin: 0 10px;
+}
+
+.form {
+    background-color:silver;
+    margin: 40px 0;
+    text-align: center;
+}
+.bentuk_form{
+    height: 30px;
+    width: 300px;
+}
+
+.jarak {
+    margin-top: 30px;
+}
+
+footer {
+    background: black;
+    color: white;
+    padding: 10px;
+}
+.btn_beli{
+    color: white;
+    background-color: black;
+    border-color: black;
+    text-align: center;
+}
+.btn_beli:hover{
+    
+    border-color:white;
+}
+.btn_daftar{
+    margin:10px;
+    margin-left:260px;
+    color: white;
+    background-color: black;
+    border-color: black;
+    text-align: center;
+}
+.btn_daftar:hover{
+    border-color: white;
+}
+.iklan{
+    background-color: silver;
+}
+.tentang{
+}
+.kontak{
+    padding-top: 5%;
+}
+.bergabung{
+    color: black;
+}
+.wa{
+    height: 50px;
+    width: 50px;
+}
+.ig{
+    height: 50px;
+    width: 50px;
+
+}
+.card{
+    transition: 2s;
+}
+.card:hover{
+    /* margin-top: 30px; */
+    
+    transition: all 0.2s ease-out;
+    box-shadow: 0px 4px 8px rgba(38, 38, 38, 0.2);
+    top: -4px;
+    border: 1px solid #cccccc;
+    background-color: white;
+    /* box-shadow: 2px 2px 5px red; */
+}
